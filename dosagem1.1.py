@@ -1,5 +1,4 @@
 # Allan de Oliveira Gomes - RA 2236362
-# Maria Eduarda Simeão Wollmann - RA 1777637
 
 import math
 tipo = 0
